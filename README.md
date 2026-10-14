@@ -1,4 +1,4 @@
-# TankStars2D
+# tanks-2d-unity
 
 A turn-based 2D artillery game made with **Unity 6 (6000.2)** and C#. Two tanks take turns firing at each other across generated terrain until one is destroyed.
 
@@ -35,4 +35,4 @@ My own gameplay code is in `Assets/scripts/` (about 2,500 lines of C#):
 
 ## Credits
 
-Third-party art and UI packs (under `Assets/`): HobiSoLoved 2D Platformer Snowy sprites, Space Exploration GUI Kit, UI pack, Universal Stylized UI, TextMesh Pro. The main-menu artwork is AI-generated.
+Third-party art and UI packs (under `Assets/`): HobiSoLoved 2D Platformer Snowy sprites, Space Exploration GUI Kit, UI pack, Universal Stylized UI, TextMesh Pro.
